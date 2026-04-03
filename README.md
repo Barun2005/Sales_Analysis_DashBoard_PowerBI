@@ -1,3 +1,7 @@
+<img width="1338" height="688" alt="Screenshot 2026-04-04 005729" src="https://github.com/user-attachments/assets/0ccc2996-a29d-480a-90a6-8755f82a62c2" />
+<img width="1348" height="676" alt="Screenshot 2026-04-04 005807" src="https://github.com/user-attachments/assets/7dcc9443-537b-4ca4-b667-bd3a3a2cef1d" />
+
+
 # 📊 Super Sales Store Dashboard
 
 ## Overview
